@@ -50,7 +50,7 @@
         "game_versions": ["1.21.9", "1.21.10"],
         "mod_loaders": "${ loader }",
         "display_name": "[${ name } 1.21.9/10] ${ nextRelease.version }",
-        "glob": "${ loader }/build/libs/better_client-${ loader }-${ nextRelease.version }.jar",
+        "glob": "${ loader }/build/libs/aquatic-torches-renewed-${ loader }-${ nextRelease.version }.jar",
         "strategies": [
           {
             "loader": "fabric",
