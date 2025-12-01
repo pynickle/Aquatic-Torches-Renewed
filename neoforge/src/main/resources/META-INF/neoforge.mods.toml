@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mods]]
+modId = "aquatic_torches_renewed"
+version = "${version}"
+displayName = "Aquatic Torches Renewed"
+authors = "ENC_Euphony"
+description = '''
+Aquatic Torches Renewed.
+'''
+#logoFile = ""
+
+[[dependencies.aquatic_torches_renewed]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.aquatic_torches_renewed]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "aquatic_torches_renewed.mixins.json"

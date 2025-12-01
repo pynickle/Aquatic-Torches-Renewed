@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:glow_ink_sac"
+  },
+  "result": {
+    "id": "aquatic_torches_renewed:aquatic_torch",
+    "count": 4
+  }
+}

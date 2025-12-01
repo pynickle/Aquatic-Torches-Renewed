@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aquatic_torches_renewed:block/aquatic_torch"
+  }
+}

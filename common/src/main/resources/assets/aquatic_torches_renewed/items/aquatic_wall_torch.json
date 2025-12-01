@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "aquatic_torches_renewed:item/aquatic_wall_torch"
+  }
+}
