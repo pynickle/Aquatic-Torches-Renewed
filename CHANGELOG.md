@@ -1,3 +1,13 @@
+## [2.0.0](https://github.com/pynickle/Aquatic-Torches-Renewed/compare/v1.0.0...v2.0.0) (2025-12-10)
+
+### ⚠ BREAKING CHANGES
+
+* update to 1.21.11
+
+### ✨ Features
+
+* update to 1.21.11 ([48522fe](https://github.com/pynickle/Aquatic-Torches-Renewed/commit/48522fe65f8ae3f2058f32c624610bb612cfc8ba))
+
 ## 1.0.0 (2025-12-01)
 
 ### ✨ Features
