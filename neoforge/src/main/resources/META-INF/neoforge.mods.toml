@@ -16,14 +16,14 @@ Aquatic Torches Renewed.
 [[dependencies.aquatic_torches_renewed]]
 modId = "neoforge"
 type = "required"
-versionRange = "[21,)"
+versionRange = "[26.1,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.aquatic_torches_renewed]]
 modId = "minecraft"
 type = "required"
-versionRange = "[1.21,)"
+versionRange = "[26.1,)"
 ordering = "NONE"
 side = "BOTH"
 
